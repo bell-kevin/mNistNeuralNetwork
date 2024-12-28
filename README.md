@@ -35,7 +35,7 @@ Key Points
    
    - Typically, you can achieve 90%+ accuracy with even a modest 1-hidden-layer MLP. Properly tuned and trained, you can surpass 95%.
     
-  - This pure NumPy version is not optimized, so it will be slow on large datasets.
+   - This pure NumPy version is not optimized, so it will be slow on large datasets.
 
 6. Improvements (if you want to go further):
    
